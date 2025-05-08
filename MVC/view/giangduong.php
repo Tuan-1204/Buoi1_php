@@ -156,6 +156,19 @@
                             <option value="Linux">Linux</option>
                             <option value="Web">Web</option>
                             <option value="CSDL">CSDL</option>
+                            <option value="Lập trình php">Lập trình php</option>
+                            <option value="Lập trình C">Lập trình C</option>
+                            <option value="Lập trình Java">Lập trình Java</option>
+                            <option value="Lập trình C#">Lập trình C#</option>
+                            <option value="Lập trình Python">Lập trình Python</option>
+                            <option value="Lập trình Android">Lập trình Android</option>
+                            <option value="Lập trình IOS">Lập trình IOS</option>
+                            <option value="Lập trình React">Lập trình React</option>
+                            <option value="Lập trình NodeJS">Lập trình NodeJS</option>
+                            <option value="Lập trình Angular">Lập trình Angular</option>
+                            <option value="Lập trình VueJS">Lập trình VueJS</option>
+                            <option value="Lập trình Flutter">Lập trình Flutter</option>
+                            <option value="Lập trình React Native">Lập trình React Native</option>
                         </select>
                     </td>
                 </tr>
